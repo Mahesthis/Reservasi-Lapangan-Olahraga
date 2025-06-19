@@ -1,5 +1,3 @@
-import Users.User;
-
 public class Struk {
     private User user;
     private Lapangan lapangan;

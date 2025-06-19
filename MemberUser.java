@@ -1,4 +1,3 @@
-package Users;
 public class MemberUser extends User {
     private final double diskon;
 

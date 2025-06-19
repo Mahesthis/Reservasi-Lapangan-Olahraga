@@ -1,4 +1,3 @@
-package Users;
 public abstract class User {
     private String nama;
     private String email;

@@ -1,6 +1,3 @@
-import Users.MemberUser;
-import Users.User;
-
 public class Reservasi {
     private User user;
     private Lapangan lapangan;

@@ -1,4 +1,3 @@
-package Users;
 public class GuestUser extends User {
     private final double diskon;
 
